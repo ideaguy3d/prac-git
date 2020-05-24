@@ -1,0 +1,6 @@
+array (
+  'user-name' => '\'SELECT * FROM users_db --',
+  'user-skills' => 'c#, visual basic, html, php',
+  'user-about' => ', SELECT user_pass, user_email FROM users_db',
+  'app-name' => 'Code Buddies Connect',
+)

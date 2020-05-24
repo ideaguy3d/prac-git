@@ -1,0 +1,4 @@
+[2020-05-18T14:01:55.547622-07:00] cb-connect-global.INFO: _> cb_connect_db = PDO [] []
+[2020-05-18T13:59:11.424333-07:00] cb-connect-global.INFO: _> cb_connect_db =  |||| 0 [] []
+[2020-05-19T00:52:53.700843-07:00] cb-connect-global.INFO: _> cb_connect_db = PDO ||||  ~{closure} line: 40 [] []
+[2020-05-19T00:52:57.561134-07:00] cb-connect-global.INFO: _> cb_connect_db = PDO ||||  ~{closure} line: 40 [] []
