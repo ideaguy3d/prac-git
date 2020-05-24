@@ -1,4 +1,6 @@
 res = hit.this.file.with.each.request()
 
+// index.php is gone since it was being tracked by git, the detached HEAD state is at a point in time
+// where index.php did not exist according to all the files git was tracking so it is no longer a file on disk.
 
 go (res)
