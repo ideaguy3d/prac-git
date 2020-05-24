@@ -2,5 +2,9 @@
     structure: {
         name: 'j dawg',
         skills: 'mad crazy'
+    },
+    limits: {
+        max: 'none',
+        min: '110%'
     }
 }
