@@ -1,0 +1,4 @@
+res = hit.this.file.with.each.request()
+
+
+go (res)
