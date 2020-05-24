@@ -1,0 +1,5 @@
+data = function.process(input)
+
+data.alter()
+
+data.return()

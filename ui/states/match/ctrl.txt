@@ -1,0 +1,6 @@
+path = get.path()
+
+if(path) render.data()
+else do.algorithm(path, input)
+
+run()
