@@ -1,0 +1,16 @@
+<?php
+declare(strict_types=1);
+/**
+ * Created by PhpStorm.
+ * User: Julius Alvarado
+ * Date: 5/13/2020
+ * Time: 12:34 AM
+ */
+
+return [
+    'settings' => [
+        'displayErrorDetails' => true, // set to false in production
+        'addContentLengthHeader' => false, // Allow the web server to send the content-length header
+        'debug' => true,
+    ],
+];
