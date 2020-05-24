@@ -1,0 +1,5 @@
+<render>
+
+<show>loop.data(input)</show>
+
+</render>
